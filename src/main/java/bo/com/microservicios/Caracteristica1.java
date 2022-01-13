@@ -7,5 +7,7 @@ public class Caracteristica1 {
 		System.out.println("Caracteristica 1");
 		System.out.println("Caracteristica 1");
 		System.out.println("Caracteristica 1");
+		
+		System.out.println("Cambio de rama 1");
 	}
 }
