@@ -9,5 +9,9 @@ public class Quijote {
 		System.out.println("sdfajsdljflasjdl;jflasjlkdfjla;sdjfl;kasjd;lfkj");
 
 		System.out.println("0000000000000000000000000000000");
+		System.out.println("0000000000000000000000000000000");
+		System.out.println("0000000000000000000000000000000");
+		System.out.println("0000000000000000000000000000000");
+		System.out.println("0000000000000000000000000000000");
 	}
 }
