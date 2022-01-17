@@ -5,6 +5,9 @@ public class Anadir {
 		System.out.println("hola mundo esto es para el servidor");
 		System.out.println("hola mundo esto es para el servidor");
 		System.out.println("hola mundo esto es para el servidor");
+		System.out.println("hola mundo esto es para el servidor");
+		System.out.println("hola mundo esto es para el servidor");
+		System.out.println("hola mundo esto es para el servidor");
 		
 		
 	}
